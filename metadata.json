@@ -1,0 +1,6 @@
+{
+  "name": "FreshTrack",
+  "description": "Data-driven food inventory, expiry prediction, and food waste reduction management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
